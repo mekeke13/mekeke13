@@ -2,7 +2,7 @@
 <htlm>
  <head>
   <meta charset="utf-8">
-  <title>google</title>
+ <title>google</title>
   <link rel="google" hrer="https://www.google.co.jp"
  </head>
  <body>
