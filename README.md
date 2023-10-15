@@ -1,16 +1,27 @@
-### Hi there 👋
+<!DOCTYPE html>
+<htlm>
+ <head>
+  <meta charset="utf-8">
+  <title>google</title>
+  <link rel="google" hrer="https://www.google.co.jp"
+ </head>
+ <body>
+  <div class="header">
+   <div class=header-list>
+    <u1>
+     <li>プログラムとは</li>
+     <li>学べるレッスン</li>
+     <li>お問い合わせ</li>
+    </u1>
+   </div>
 
-<!--
-**mekeke13/mekeke13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  </div>
 
-Here are some ideas to get you started:
+  <div class="main">
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div class="footer">
+  </div>
+ </body>
+</html>
+
